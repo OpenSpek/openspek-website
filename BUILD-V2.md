@@ -169,18 +169,18 @@ Footer italic muted: Best for teams that want results without setup overhead
 Button: Book a Call (ghost)
 
 ## SECTION 7 - SPEKBOARD (id="spekboard", bg #0F0F16)
-Section label (small, amber, letter-spaced): OPEN SOURCE
+Section label (small, amber, letter-spaced): OPEN SOURCE SOON
 H2: SpekBoard. Built by the pipeline. For the pipeline.
-Subhead (muted): Every task is an Issue. Every action is a comment. Every commit is tracked. Open-source.
+Subhead (muted): Every task is an Issue. Every action is a comment. Every commit is tracked. Private alpha now. Open-source soon.
 
 Two columns (stack mobile):
 
 Left copy:
 Autonomous agent pipelines have a set of hard problems: two agents grabbing the same task simultaneously, stalled work that nobody notices, no visibility into what is happening, and the need for human checkpoints before expensive work begins.
 
-SpekBoard solves all of them structurally. It is the command center the pipeline runs on -- and the first OpenSpek product to open-source.
+SpekBoard solves all of them structurally. It is the command center the pipeline runs on -- now in private alpha, with the open-source release following once release prep and transfer validation are complete.
 
-The architecture is a reference implementation for anyone building autonomous agent systems. We built it because we needed it. We are open-sourcing it because you will too.
+The architecture is a reference implementation for anyone building autonomous agent systems. We built it because we needed it. The release work is in motion now, and the open-source handoff follows as soon as the system is validated for transfer.
 
 Right feature list (amber checkmark unicode, 6 items):
 - Atomic checkout -- no two agents grab the same task
